@@ -17,7 +17,6 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
   unzip \
   gnupg2 \
   gh \
-  gcloud \ 
   iptables \
   ipset \
   iproute2 \
